@@ -1,5 +1,105 @@
-img{
-	width:100px;
-	height: :100px;
 
+h1{
+	color:blue
 }
+h2{
+	color:red;
+}
+.pic{
+	border:1px;
+	float:left;
+}
+.bigbig{
+		height: 470px;
+	margin-top: 20px;
+}
+.pic1{
+	background-image: url("‪http://cfile29.uf.tistory.com/image/2164123E560215222A866E");
+	background-size: 100% 100%;
+	width: 310px;
+	height: 310px;
+	float: left;
+	margin-right: 10px;
+}
+.travel{
+	background-image: url("‪http://mblogthumb3.phinf.naver.net/20140611_214/qmfnehr00_14024506946498fSez_JPEG/IMG_2824.JPG?type=w2");
+	background-size: 100% 100%;
+	width: 310px;
+	height: 310px;
+	float: left;
+	margin-right: 10px;
+}
+
+.pic1 p{
+	top:320px;
+	position: relative;
+	text-align: center;
+}
+.pic2{
+	background-image: url("http://mblogthumb3.phinf.naver.net/20140611_214/qmfnehr00_14024506946498fSez_JPEG/IMG_2824.JPG?type=w2");	
+
+	background-size: 100% 100%;
+	width: 310px;
+	height: 310px;
+	float: left;
+	margin-right: 10px;
+}
+.pic2 p{
+	top:320px;
+	position: relative;
+	text-align: center;
+}
+.pic3{
+	background-image: url("https://scontent-icn1-1.cdninstagram.com/t51.2885-15/e35/16229221_143445079496207_2689800943603548160_n.jpg");
+	background-size: 100% 100%;
+	width: 310px;
+	height: 310px;
+	float: left;
+	margin-right: 10px;
+}
+.pic3 p{
+	top:320px;
+	position: relative;
+	text-align: center;
+}
+.fir{
+	background: pink;
+}
+.button{
+	background: blue;
+}
+.bigpicture{	
+	margin: 0 auto;
+	width:960px;
+	height: 100%;
+	background: gray;
+	float:left;
+}
+.trip{	
+	margin: 0 auto;
+	width:960px;
+	height: 100%;
+	background: gray;
+	float:left;
+}
+table{
+	border-color: blue;
+	text-align: center;
+}
+p{
+	text-align: center;
+	font-family: italic;
+	font-weight:bold;
+}
+button {
+  width: 200px;
+  height: 70px;
+  border-radius: 3px;
+  font-weight: 600;
+  border-color: transparent;
+  font-size: 25px;
+  background: green;
+  color: #fff;
+ cursor: pointer;
+}
+
